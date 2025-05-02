@@ -2,7 +2,7 @@
 
 I am KhvichaDev, developer who loves coding on WordPress and Flutter.
 
-I build personal projects and useful scripts to simplify my daily work.
+I build personal projects and useful scripts.
 
 Sometimes I break things just to fix them better. 🔥
 
