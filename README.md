@@ -2,7 +2,7 @@
 
 I am KhvichaDev, developer who loves coding on WordPress and Flutter.
 
-I build personal projects and useful scripts.
+I’m a Full Stack web developer specializing in WordPress solutions, including plugin development, SEO, performance optimization, security systems, and everything related to WordPress.
 
 Sometimes I break things just to fix them better. 🔥
 
